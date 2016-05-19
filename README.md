@@ -6,7 +6,7 @@ A list of developer who are specialised or very interested in Bot Development.
 
 ---
 
-[⚓](#abdelhai) **Mustafa Abdelhai** { [portfolio](https://devolio.net/mustafa) | [email](mailto:mustafa@devolio.net) }  
+[⚓](#abdelhai) **Mustafa Abdelhai** { [github](https://github.com/abdelhai) | [website](https://devolio.net/mustafa) | [contact](mailto:mustafa@devolio.net) }  
 ```
 Skills: Python, Flask, JavaScript, Linux, MongoDB, Firebase, Slack API
 ```
